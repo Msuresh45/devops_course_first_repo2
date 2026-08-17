@@ -2,5 +2,3 @@
 
 This is  for devops course2
 
-
-
